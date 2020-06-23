@@ -1,0 +1,1 @@
+# SM-G530W-NA-Kernel
